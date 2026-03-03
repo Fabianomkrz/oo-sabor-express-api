@@ -1,1 +1,3 @@
-venv
+Atividades/.idea
+modelos/__pycache__
+modelos/cardapio/__pycache__
